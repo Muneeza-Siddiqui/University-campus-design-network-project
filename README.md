@@ -752,16 +752,7 @@ The **University Campus Network Design** project represents a **complete, profes
 
 ---
 
-## 📞 Support & Questions
 
-For questions about this project:
-
-- 📧 Review configuration files in the repository
-- 📚 Consult Cisco official documentation
-- 🎓 Refer to networking textbooks and online courses
-- 💬 Check Cisco NetAcad community forums
-
----
 
 ## 📜 License
 
@@ -771,10 +762,10 @@ This project is provided for **educational purposes** and **portfolio demonstrat
 
 <div align="center">
 
-**Made with ❤️ by Muneeza Shehwar**
+**Made with  by Muneeza Shehwar**
 
 *Showcase your networking expertise with this professional project*
 
-⭐ If this project helped you learn networking concepts, please consider giving it a star! ⭐
+ If this project helped you learn networking concepts, please consider giving it a star! ⭐
 
 </div>
